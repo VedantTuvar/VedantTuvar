@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Tuvar</h1>
-<h3 align="center">Frontend developer with expertise in building responsive, user-friendly interfaces using frontend skills. Passionate about clean code and delivering seamless user experiences.</h3>
+<h3 align="center">Frontend developer and UI/UX designer with expertise in building responsive, user-focused interfaces that combine modern design principles with seamless functionality. Passionate about crafting clean, maintainable code and creating intuitive, engaging digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanttuvar&label=Profile%20views&color=0e75b6&style=flat" alt="vedanttuvar" /> </p>
 
